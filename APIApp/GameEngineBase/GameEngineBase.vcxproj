@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{0B6A60BB-66F9-46AD-AE2B-ADED2C435EFF}</ProjectGuid>
+    <ProjectGuid>{a6e9bfee-96ec-4fc9-9219-12202f5126cc}</ProjectGuid>
     <RootNamespace>GameEngineBase</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
